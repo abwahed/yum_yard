@@ -21,7 +21,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/my-awesome-rails-app.git`
+1. Clone the repository: `git clone https://github.com/abwahed/yum_yard.git`
 2. Navigate to the project directory: `cd yum_yard`
 3. Install gem dependencies: `bundle install`
 4. Set up the database: `rails db:setup`
